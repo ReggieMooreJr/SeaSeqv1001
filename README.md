@@ -10,6 +10,19 @@ It includes **everything**: project overview, local and Docker workflow, CI/CD i
 
 It’s **DevSecOps-ready**, **Docker-ready**, and **CI/CD-integrated**, offering complete visibility into your site’s reliability and test coverage across all environments.
 
+# MCP Weather Server
+
+A Model Context Protocol server that provides:
+
+- Weather alerts (US National Weather Service)
+- Weather forecasts by latitude/longitude
+- Structured API logging
+
+## Run
+
+```bash
+python weather.py
+
 ---
 
 ## ⚙️ What It Does
