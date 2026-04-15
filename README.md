@@ -24,11 +24,28 @@ python weather.py
 
 ---
 
+# 🚀 If you want next level setup
+I can help you upgrade this repo into:
+
+### 🔥 Production MCP project
+- Docker container
+- environment variables
+- proper CLI entrypoint
+- auto-reload dev mode
+
+### 🔌 Claude Desktop integration
+So you can literally ask:
+> “What’s the weather alert in Illinois?”
+
+Just tell me 👍
+
+---
+
 ## ⚙️ What It Does
 
 **MCP Site Scanner** performs the following tasks:
 
-- 🧩 Crawls and scans an entire target website.
+- 🧩 Crawls and scans an entire target website.d
 - 🔗 Validates internal and external links for availability and performance.
 - 🧍 Detects “Add Member”, “Signup”, or “Register” forms automatically.
 - 📤 Submits safe dummy payloads to confirm backend functionality.
